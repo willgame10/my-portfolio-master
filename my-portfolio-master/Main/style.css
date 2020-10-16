@@ -1,0 +1,70 @@
+.header{
+    text-align: center;
+    font-style: oblique;
+    background-color: #607d8b;
+  color: #ffffff;
+    
+}
+ul{
+   color:black;
+
+}
+p{
+    color: black;
+}
+img {
+    float: right;
+}
+
+h2  {
+    color: black;
+}
+h3{
+    color: black;
+}
+body {
+    background-image: url("../lutgerthall.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    overflow: hidden;
+}
+#meparagraph{
+    font: bold 20px "Times New Roman";
+    background-color: teal;
+    text-align: center;
+
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+    float: none;
+}
+.buttons{
+    font: bold 20px "Times New Roman";
+  text-decoration: none;
+  background-color: #14DD20;
+  color: #1432DD;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  border-top: 1px solid #14DD20;
+  border-right: 1px solid #14DD20;
+  border-bottom: 1px solid #14DD20;
+  border-left: 1px solid #14DD20; 
+  }
+.allbuttons {
+    text-align: center;
+    padding-top: 60px;
+}
+.info {
+    text-align: center; 
+    font-size: 40px;
+}
+#myCanvas { position: absolute; 
+  bottom: 0;
+  margin-left: -250px; 
+}
+html { height: 100%
+  }
