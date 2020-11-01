@@ -44,10 +44,10 @@ body {
     float: none;
 }
 #myPhoto{
-    max-height: 150px;
-    max-width: 200px;
-    width: 120px;
-    height: 120px;
+    max-height: 500px;
+    max-width: 500px;
+    width: 350px;
+    height: 350px;
 }
 .buttons{
     font: bold 20px "Times New Roman";
