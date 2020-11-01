@@ -43,6 +43,12 @@ body {
     overflow: auto;
     float: none;
 }
+#myPhoto{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+}
 .buttons{
     font: bold 20px "Times New Roman";
   text-decoration: none;
