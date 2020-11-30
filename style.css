@@ -1,13 +1,15 @@
-.header{
+.header {
     text-align: center;
     font-style: oblique;
     background-color: #607d8b;
-  color: #ffffff;
-    
+    color: #ffffff;
+
 }
+
 img {
     float: right;
 }
+
 body {
     background-image: url("Photos/lutgerthall.png");
     background-repeat: no-repeat;
@@ -16,12 +18,14 @@ body {
     height: 100%;
     overflow: hidden;
 }
-#paragraph{
+
+#paragraph {
     font: bold 20px "Times New Roman";
     color: white;
     text-align: left;
 
 }
+
 #logo {
     display: block;
     margin-left: auto;
@@ -29,38 +33,47 @@ body {
     overflow: auto;
     float: none;
 }
-#myPhoto{
+
+#myPhoto {
     max-height: 500px;
     max-width: 500px;
     width: 350px;
     height: 350px;
 }
-.buttons{
+
+.buttons {
     font: bold 20px "Times New Roman";
-  text-decoration: none;
-  background-color: #14DD20;
-  color: #1432DD;
-  padding: 0.5em 0.5em 0.5em 0.5em;
-  border-top: 1px solid #14DD20;
-  border-right: 1px solid #14DD20;
-  border-bottom: 1px solid #14DD20;
-  border-left: 1px solid #14DD20; 
-  }
+    text-decoration: none;
+    background-color: #14DD20;
+    color: #1432DD;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    border-top: 1px solid #14DD20;
+    border-right: 1px solid #14DD20;
+    border-bottom: 1px solid #14DD20;
+    border-left: 1px solid #14DD20;
+}
+
 .allbuttons {
     text-align: center;
     padding-top: 60px;
 }
+
 .info {
-    text-align: center; 
+    text-align: center;
     font-size: 40px;
 }
-#myCanvas { position: absolute; 
-  bottom: 0;
-  margin-left: -250px; 
+
+#myCanvas {
+    position: absolute;
+    bottom: 0;
+    margin-left: -250px;
 }
-html { height: 100%
-  }
-.header{
+
+html {
+    height: 100%
+}
+
+.header {
     text-align: center;
     font-style: oblique;
     background-color: #607d8b;
@@ -68,30 +81,39 @@ html { height: 100%
 
 }
 
-ul{
-    color:white;
+ul {
+    color: white;
 }
-p{
+
+p {
     color: black;
 }
+
 img {
     float: right;
 }
-h2  {
+
+h2 {
     color: blue;
 }
-h3{
+
+h3 {
     color: blue;
 }
+
 body {
     background-image: "fgcu background.jfif";
 }
-#logo {width: auto;
+
+#logo {
+    width: auto;
     Height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    position: relative; }
-#inDark{
+    position: relative;
+}
+
+#inDark {
     color: white;
 }
