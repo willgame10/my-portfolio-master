@@ -114,6 +114,6 @@ body {
     position: relative;
 }
 
-#inDark {
+.inDark {
     color: white;
 }
