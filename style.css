@@ -5,22 +5,8 @@
   color: #ffffff;
     
 }
-ul{
-   color:black;
-
-}
-p{
-    color: black;
-}
 img {
     float: right;
-}
-
-h2  {
-    color: black;
-}
-h3{
-    color: black;
 }
 body {
     background-image: url("Photos/lutgerthall.png");
@@ -30,9 +16,9 @@ body {
     height: 100%;
     overflow: hidden;
 }
-#meparagraph{
+#paragraph{
     font: bold 20px "Times New Roman";
-    background-color: teal;
+    color: white;
     text-align: left;
 
 }
@@ -81,8 +67,9 @@ html { height: 100%
     color: #ffffff;
 
 }
+
 ul{
-    color:black;
+    color:white;
 }
 p{
     color: black;
@@ -105,3 +92,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     position: relative; }
+#inDark{
+    color: white;
+}
