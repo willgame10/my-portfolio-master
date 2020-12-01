@@ -19,7 +19,7 @@ body {
     overflow: hidden;
 }
 
-#paragraph {
+.paragraph {
     font: bold 20px "Times New Roman";
     color: white;
     text-align: left;
